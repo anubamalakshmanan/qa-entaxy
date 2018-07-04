@@ -35,6 +35,18 @@ Launch the dev server:
 
 open `http://localhost:3000/`
 
+Staging site: http://entaxy-staging.s3-website.ca-central-1.amazonaws.com/
+
+## To build:
+
+Pull down the repository: 
+`git clone https://github.com/twg/entaxy.git`
+
+Install and run:
+
+`npm install`
+
+`npm start`
 
 ## Feature roadmap
 * Investments
